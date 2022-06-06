@@ -1,6 +1,6 @@
 ## Snake Game
 
-Reconstruir jogo da cobrinha(Snake Game)) , utilizando HTML5, CSS3, JavaScript.
+Reconstruir jogo da cobrinha(Snake Game), utilizando HTML5, CSS3, JavaScript.
 
 ## Links Úteis
 
@@ -17,5 +17,9 @@ Reconstruir jogo da cobrinha(Snake Game)) , utilizando HTML5, CSS3, JavaScript.
 1. Mudança de cores do layout.
 2. Acrescentei audio.
 3. Pontuação e recorde.
+
+![](assets\img\readme-image.png)
+
+
 
 ## 👍 Fique a vontade para modificar 👍
