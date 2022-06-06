@@ -1,4 +1,4 @@
-## Descrição do Desafio
+## Snake Game
 
 Reconstruir a interface do principal site de streaming mundial, utilizando HTML5, CSS3, JavaScript e uso de Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade.
 
@@ -14,17 +14,8 @@ Reconstruir a interface do principal site de streaming mundial, utilizando HTML5
 
 ## Minhas contribuições ao código original foram:
 
-1. Página inicial.
-2. Página de login.
-3. Página principal com o tema da série The Flash, como logo responsivo.
-4. Responsividade para desktop e mobile.
-5. Botões para download nas lojas Google Play e App Store.
-6. Top 10 da semana com capas e legendas.
-7. Tela de trailler da série The Flash.
-
-![Alt text](./img/image-readme.png "Optional title")
-
-
+1. Mudança de cores do layout.
+2. Acrescentei audio.
+3. Pontuação e recorde.
 
 ## 👍 Fique a vontade para modificar 👍
-
