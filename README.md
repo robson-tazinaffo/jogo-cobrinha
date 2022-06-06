@@ -1,10 +1,10 @@
 ## Snake Game
 
-Reconstruir a interface do principal site de streaming mundial, utilizando HTML5, CSS3, JavaScript e uso de Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade.
+Reconstruir jogo da cobrinha(Snake Game)) , utilizando HTML5, CSS3, JavaScript.
 
 ## Links Úteis
 
-- [Repositório no GitHub](https://github.com/felipeAguiarCode/netflix-clone) (implementação de referência)
+* [Repositório no GitHub](https://github.com/SpruceGabriela/snake-the-game) (implementação de referência)
 
 ### Requisitos:
 
