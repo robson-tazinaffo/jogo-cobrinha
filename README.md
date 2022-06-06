@@ -18,7 +18,7 @@ Reconstruir jogo da cobrinha(Snake Game), utilizando HTML5, CSS3, JavaScript.
 2. Acrescentei audio.
 3. Pontuação e recorde.
 
-![](assets\img\readme-image.png)
+![](https://github.com/robson-tazinaffo/jogo-cobrinha/blob/main/assets/img/readme-image.png)
 
 
 
