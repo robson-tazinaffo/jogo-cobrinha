@@ -1,6 +1,6 @@
 class Game {
   constructor() {
-    document.addEventListener('keydown', this.keyEvents.bind(this)) // tuşa basıldığında aktifleştir
+    document.addEventListener('keydown', this.keyEvents.bind(this))
     this.a_dead = new Audio(
       'https://www.dropbox.com/s/r7o9las1ki6tr0u/fail.wav?dl=1'
     )
